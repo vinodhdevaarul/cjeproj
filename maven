@@ -1,0 +1,33 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /dist/maven</title>
+ </head>
+ <body>
+<h1>Index of /dist/maven</h1>
+<pre><img src="/icons/blank.gif" alt="Icon "> <a href="?C=N;O=D">Name</a>                    <a href="?C=M;O=A">Last modified</a>      <a href="?C=S;O=A">Size</a>  <a href="?C=D;O=A">Description</a><hr><img src="/icons/back.gif" alt="[PARENTDIR]"> <a href="/dist/">Parent Directory</a>                             -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="archetype/">archetype/</a>              2017-04-11 18:28    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="binaries/">binaries/</a>               2015-10-14 22:39    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="doxia/">doxia/</a>                  2016-11-11 18:44    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="enforcer/">enforcer/</a>               2015-10-14 22:40    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="indexer/">indexer/</a>                2015-10-14 22:40    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="jxr/">jxr/</a>                    2015-10-14 22:40    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="maven-1/">maven-1/</a>                2015-10-14 22:39    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="maven-2/">maven-2/</a>                2015-10-14 22:40    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="maven-3/">maven-3/</a>                2017-04-07 08:32    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="plugin-testing/">plugin-testing/</a>         2015-10-14 22:40    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="plugin-tools/">plugin-tools/</a>           2016-08-30 11:06    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="plugins/">plugins/</a>                2017-05-23 18:36    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="pom/">pom/</a>                    2016-05-26 20:57    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="release/">release/</a>                2015-10-17 23:58    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="reporting/">reporting/</a>              2016-10-27 05:50    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="resolver/">resolver/</a>               2017-01-25 18:42    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="resources/">resources/</a>              2016-05-26 20:57    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="scm/">scm/</a>                    2016-07-05 20:43    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="shared/">shared/</a>                 2017-05-10 20:02    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="skins/">skins/</a>                  2016-11-10 21:29    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="surefire/">surefire/</a>               2017-04-13 02:58    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="wagon/">wagon/</a>                  2017-01-30 19:55    -   
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="KEYS">KEYS</a>                    2017-03-19 11:49  171K  
+<hr></pre>
+</body></html>
